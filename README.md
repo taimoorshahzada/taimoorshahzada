@@ -3,10 +3,13 @@ and inspirations to web designing.
 I have done tons of web designing projects. And here to teach you Web Development, Frontend Development with advance techniques and BackEnd.
 I want to you understand how the designs speaks and give you an idea of HTML, CSS and JavaScript.
 
-- 🌱 https://www.youtube.com/channel/UC8LL8whaBsyyvksDXaQTUcg
+- Tech Stack in 2k22: ( Three.js | Advance Animations | React Native | Remix | Next | Tailwind )
 
- - 👀 Subscribe to my channel and strap in and enjoy the ride of creating and coding.
+- 🌱 Youtube Channel: https://www.youtube.com/c/TaimoorShahzada
+
+- 👀 Subscribe to my channel and strap in and enjoy the ride of creating and coding.
  
 - 💞️ Thank you, and I hope you have as much fun watching and learning from my videos as much as I have making them for you !
 
 - 📫 Interested in opportunity or review contact me at: m.ts131941@gmail.com
+
