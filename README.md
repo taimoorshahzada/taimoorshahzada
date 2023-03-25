@@ -3,7 +3,7 @@ and inspirations to web designing.
 I have done tons of web designing projects. And here to teach you Web Development, Frontend Development with advance techniques and BackEnd.
 I want to you understand how the designs speaks and give you an idea of HTML, CSS and JavaScript.
 
-- Tech Stack in 2k22: ( Three.js | Advance Animations | React Native | Remix | Next | Tailwind )
+- Tech Stack in 2k22: ( Three.js | Advance Animations | Blockchain | Smart Contracts )
 
 - 🌱 Youtube Channel: https://www.youtube.com/c/TaimoorShahzada
 
